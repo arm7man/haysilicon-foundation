@@ -71,8 +71,8 @@ const en: Content = {
   },
   hero: {
     eyebrow: "Education · Science · Technology · Innovation",
-    title: "HaySilicon Foundation",
-    subtitle: "ՀայՍիլիկոն Հիմնադրամ",
+    title: "ASTech",
+    subtitle: "Armenian Semiconductor Technology Development Foundation",
     description:
       "A non-membership, non-commercial foundation advancing education, science, engineering and technology in Armenia — building the people, knowledge and infrastructure behind the country's next generation of engineers and researchers.",
     ctaPrimary: "Learn about our mission",
@@ -81,9 +81,9 @@ const en: Content = {
   about: {
     label: "Our Mission",
     heading:
-      "HaySilicon Foundation exists to strengthen education, science, technology and innovation across Armenia.",
+      "ASTech exists to strengthen education, science, technology and innovation across Armenia.",
     body1:
-      "Established through the voluntary contributions of its founders, HaySilicon is a non-membership, non-commercial foundation operating under the laws of the Republic of Armenia. It pursues public-benefit goals in education, science and technology, and is guided by principles of lawfulness, self-governance, transparency, accountability and the responsible management of conflicts of interest.",
+      "Established through the voluntary contributions of its founders, ASTech — the Armenian Semiconductor Technology Development Foundation — is a non-membership, non-commercial foundation operating under the laws of the Republic of Armenia. It pursues public-benefit goals in education, science and technology, and is guided by principles of lawfulness, self-governance, transparency, accountability and the responsible management of conflicts of interest.",
     body2:
       "The Foundation works to build a scientific and educational community, create open learning content and infrastructure, and support research and innovation initiatives that connect students, researchers, engineers and institutions across Armenia — with a particular focus on the fields that underpin modern technology: semiconductors, digital design and embedded systems.",
   },
@@ -146,7 +146,7 @@ const en: Content = {
   collaboration: {
     label: "Collaboration",
     heading: "Open to partnership across sectors",
-    body: "HaySilicon Foundation's charter allows it to collaborate with a wide range of institutions in Armenia and abroad in pursuit of its educational and technological mission. We welcome conversations with organizations working in:",
+    body: "ASTech's charter allows it to collaborate with a wide range of institutions in Armenia and abroad in pursuit of its educational and technological mission. We welcome conversations with organizations working in:",
     types: [
       "State and local self-government bodies",
       "Universities and educational institutions",
@@ -166,11 +166,12 @@ const en: Content = {
     addressLabel: "Address",
     addressValue: "10 Vazgen Sargsyan St, Yerevan, Armenia",
     legalNameLabel: "Legal Name",
-    legalNameValue: '"HaySilicon" Foundation / «ՀայՍիլիկոն» Հիմնադրամ',
+    legalNameValue:
+      '"ASTech" – Armenian Semiconductor Technology Development Foundation / «ԱՍԹեք» – Հայկական Կիսահաղորդչային Տեխնոլոգիաների Զարգացման Հիմնադրամ',
   },
   footer: {
     rights: (year) =>
-      `© ${year} HaySilicon Foundation · «ՀայՍիլիկոն» Հիմնադրամ. All rights reserved.`,
+      `© ${year} ASTech · Armenian Semiconductor Technology Development Foundation. All rights reserved.`,
     location: "Yerevan, Armenia",
   },
 };
@@ -186,8 +187,8 @@ const hy: Content = {
   },
   hero: {
     eyebrow: "Կրթություն · Գիտություն · Տեխնոլոգիա · Նորարարություն",
-    title: "ՀայՍիլիկոն Հիմնադրամ",
-    subtitle: "HaySilicon Foundation",
+    title: "ASTech",
+    subtitle: "Հայկական Կիսահաղորդչային Տեխնոլոգիաների Զարգացման Հիմնադրամ",
     description:
       "Անդամություն չունեցող ոչ առևտրային հիմնադրամ, որը խթանում է կրթության, գիտության, ճարտարագիտության և տեխնոլոգիաների զարգացումը Հայաստանում՝ կերտելով երկրի հաջորդ սերնդի ինժեներների ու հետազոտողների համար անհրաժեշտ մարդկային ռեսուրսը, գիտելիքն ու ենթակառուցվածքը։",
     ctaPrimary: "Ծանոթացեք մեր առաքելությանը",
@@ -196,9 +197,9 @@ const hy: Content = {
   about: {
     label: "Մեր առաքելությունը",
     heading:
-      "ՀայՍիլիկոն Հիմնադրամը ստեղծված է Հայաստանում կրթության, գիտության, տեխնոլոգիաների և նորարարության ամրապնդման համար։",
+      "ASTech-ը ստեղծված է Հայաստանում կրթության, գիտության, տեխնոլոգիաների և նորարարության ամրապնդման համար։",
     body1:
-      "Հիմնադիրների կամավոր գույքային վճարների հիման վրա ստեղծված՝ ՀայՍիլիկոնը անդամություն չունեցող ոչ առևտրային հիմնադրամ է, որը գործում է Հայաստանի Հանրապետության օրենսդրության համաձայն։ Այն հետապնդում է կրթական, գիտական և տեխնոլոգիական հանրօգուտ նպատակներ և առաջնորդվում է օրինականության, ինքնակառավարման, թափանցիկության, հաշվետվողականության և շահերի բախման պատշաճ կառավարման սկզբունքներով։",
+      "Հիմնադիրների կամավոր գույքային վճարների հիման վրա ստեղծված՝ ASTech-ը (Հայկական Կիսահաղորդչային Տեխնոլոգիաների Զարգացման Հիմնադրամ) անդամություն չունեցող ոչ առևտրային հիմնադրամ է, որը գործում է Հայաստանի Հանրապետության օրենսդրության համաձայն։ Այն հետապնդում է կրթական, գիտական և տեխնոլոգիական հանրօգուտ նպատակներ և առաջնորդվում է օրինականության, ինքնակառավարման, թափանցիկության, հաշվետվողականության և շահերի բախման պատշաճ կառավարման սկզբունքներով։",
     body2:
       "Հիմնադրամը նպաստում է գիտակրթական համայնքի ձևավորմանը, բաց ուսումնական բովանդակության ու ենթակառուցվածքի ստեղծմանը, ինչպես նաև աջակցում է հետազոտական և նորարարական նախաձեռնություններին՝ կապելով ուսանողներին, հետազոտողներին, ինժեներներին ու հաստատություններին ողջ Հայաստանում՝ հատուկ ուշադրություն դարձնելով ժամանակակից տեխնոլոգիաների հիմքում ընկած ոլորտներին՝ կիսահաղորդիչներ, թվային նախագծում և ներկառուցված համակարգեր։",
   },
@@ -261,7 +262,7 @@ const hy: Content = {
   collaboration: {
     label: "Համագործակցություն",
     heading: "Բաց ենք համագործակցության համար բոլոր ոլորտներում",
-    body: "ՀայՍիլիկոն Հիմնադրամի կանոնադրությունը թույլ է տալիս համագործակցել Հայաստանում և արտերկրում գործող տարբեր հաստատությունների հետ՝ իր կրթական և տեխնոլոգիական առաքելության իրականացման նպատակով։ Բաց ենք համագործակցության առաջարկների համար հետևյալ ոլորտներից.",
+    body: "ASTech-ի կանոնադրությունը թույլ է տալիս համագործակցել Հայաստանում և արտերկրում գործող տարբեր հաստատությունների հետ՝ իր կրթական և տեխնոլոգիական առաքելության իրականացման նպատակով։ Բաց ենք համագործակցության առաջարկների համար հետևյալ ոլորտներից.",
     types: [
       "Պետական և տեղական ինքնակառավարման մարմիններ",
       "Համալսարաններ և կրթական հաստատություններ",
@@ -281,11 +282,12 @@ const hy: Content = {
     addressLabel: "Հասցե",
     addressValue: "Հայաստան, ք. Երևան, Վազգեն Սարգսյան 10",
     legalNameLabel: "Իրավաբանական անվանում",
-    legalNameValue: '«ՀայՍիլիկոն» Հիմնադրամ / "HaySilicon" Foundation',
+    legalNameValue:
+      '«ԱՍԹեք» – Հայկական Կիսահաղորդչային Տեխնոլոգիաների Զարգացման Հիմնադրամ / "ASTech" – Armenian Semiconductor Technology Development Foundation',
   },
   footer: {
     rights: (year) =>
-      `© ${year} ՀայՍիլիկոն Հիմնադրամ · HaySilicon Foundation: Բոլոր իրավունքները պաշտպանված են։`,
+      `© ${year} ASTech · Հայկական Կիսահաղորդչային Տեխնոլոգիաների Զարգացման Հիմնադրամ: Բոլոր իրավունքները պաշտպանված են։`,
     location: "Երևան, Հայաստան",
   },
 };

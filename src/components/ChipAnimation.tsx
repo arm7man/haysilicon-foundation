@@ -205,7 +205,7 @@ export default function ChipAnimation({ className = "" }: { className?: string }
           letterSpacing="2"
           fill="var(--navy)"
         >
-          HS
+          AS
         </text>
       </g>
     </svg>

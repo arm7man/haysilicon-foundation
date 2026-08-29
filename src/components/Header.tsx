@@ -34,10 +34,10 @@ export default function Header() {
       <div className="mx-auto max-w-6xl px-6 flex items-center justify-between h-16">
         <a href="#top" className="flex items-center gap-2.5 group">
           <span className="relative flex h-8 w-8 items-center justify-center rounded border border-navy/40 text-navy font-mono-tight text-xs">
-            HS
+            AS
           </span>
           <span className="font-semibold tracking-tight text-ink text-[15px]">
-            HaySilicon <span className="text-ink-dim font-normal">Foundation</span>
+            ASTech <span className="text-ink-dim font-normal">Foundation</span>
           </span>
         </a>
 

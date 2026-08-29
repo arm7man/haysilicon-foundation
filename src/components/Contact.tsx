@@ -27,10 +27,10 @@ export default function Contact() {
                   {t.contact.emailLabel}
                 </p>
                 <a
-                  href="mailto:info@haysilicon.am"
+                  href="mailto:info@astech.com"
                   className="mt-1 block text-lg text-ink hover:text-ember transition-colors"
                 >
-                  info@haysilicon.am
+                  info@astech.com
                 </a>
               </div>
               <div>

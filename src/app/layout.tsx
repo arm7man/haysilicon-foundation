@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "HaySilicon Foundation | ՀայՍիլիկոն Հիմնադրամ",
+  title: "ASTech | Armenian Semiconductor Technology Development Foundation",
   description:
-    "HaySilicon Foundation advances education, science, engineering and technology in Armenia, with a focus on semiconductors, digital design and embedded systems.",
+    "ASTech advances education, science, engineering and technology in Armenia, with a focus on semiconductors, digital design and embedded systems.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
